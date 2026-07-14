@@ -12,3 +12,5 @@ This is my README file.
 2. Jessica
 
 [Register today: www.ARIAguide.org]
+
+![cat image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWnwCndToDqE3YsC3wJm16o7vO3GpN9H3gc1RS9Qwaw&s=10)
